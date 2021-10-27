@@ -17,10 +17,12 @@ cd .\React-next-crud
 npm install
 ```
 
-3 - Run the application.
+3 - Configure a database in firebase console and connect the application via .env.local file
+
+4 - Run the application.
 
 ```bash
 npm run dev
 ```
 
-4 - Enjoy!
+5 - Enjoy!
